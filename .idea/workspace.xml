@@ -166,6 +166,7 @@
     <session id="1685503867">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -307,6 +308,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/microservice-produits" />
@@ -379,12 +384,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535641951435</updated>
-      <workItem from="1535641952692" duration="1128000" />
+      <workItem from="1535641952692" duration="1767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1128000" />
+    <option name="totallyTimeSpent" value="1767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -398,7 +403,7 @@
       <window_info id="Web" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" visible="true" weight="0.18418202" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" visible="true" weight="0.5460455" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
